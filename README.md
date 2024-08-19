@@ -15,7 +15,9 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 **1. The development of prigramming languages.**
+
 **2. The establishment of software engineering as a discipline in the 1960s.**
+
 **3. The advent of structured programming in the 1970s.**
 
 
@@ -23,10 +25,15 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 **1. Requirements: Involves gathering and documenting of user needs and system requirement.**
+
 **2. Design: Deals with designing high level and detailed designs of the software architecture and user interface.**
+
 **3. Implementation: Involves writing code and building the software according to design specifications**
+
 **4. Testing: Run various tests to ensure software is of quality standard and functional requirements.**
+
 **5. Deployment: Involves release of the software to end users and customers.**
+
 **6. Maintenance: Provide ongoing support, updates, and enhancement to the software.**
 
 
@@ -40,7 +47,9 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 
 **1. Software Developer: They are responsible for writing code and implementing software solutions.**
+
 **2. Quality Assuarance Engineer: They ensure softwrare is of high quality by designing and executing test plans.**
+
 **3. Project Manager : They are responsible to oversee the planning, execution, and delivery of software projects.**
 
 
@@ -48,7 +57,9 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 **They enhance productivity, collaboration, and code quality**
+
 **Example of IDE iclude; Visual Studio, Eclipse, IntelliJ IDEA.**
+
 **Example of Version Control Systems include; Git, Subversion etc.**
 
 
@@ -56,7 +67,9 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 
 **1. Changing requirements.**
+
 **2. Technical debt.**
+
 **3. Tight deadlines**
 
 
@@ -64,8 +77,11 @@ Possible strategies for overcoming challenges:
 
 
 **1. Effective communication.**
+
 **2. Agile methodologies.**
+
 **3. Prioritazation of tasks.**
+
 **4. Regular reassessment of project goals and timpelines.**
 
 
@@ -73,9 +89,13 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 *1. Unit Testing:* Testing individual components or modules of software.*
+
 *2. Integration Testing:* Testing interactions between different components or subsystems.*
+
 *3. System Testing:* Testing the entire software system as a whole.*
+
 *4. Acceptance Testing:* Testing the software against user requirements to ensure it meets user needs.
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -89,11 +109,17 @@ Importance of prompt engineering.
 
 
 **1. Determine what your goals are for using AI tools.**
+
 **2. Perform tests.**
+
 **3. Consider using machine learning methods.**
+
 **4. Separate your instructions.**
+
 **5. Try to be as specific or descriptive as possible.**
+
 **6. Use examples.**
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Example of a Vague Prompt
@@ -108,5 +134,8 @@ An improved prompt:
 Why the improved prompt is more effective:
 
 **1. It specifies what the task is (creating a PowerPoint presentation) and the topic (benefits of renewable energy)**
+
 **2. It outlines the exact deliverable (a 10-slide presentation) and the deadline (by tomorrow).**
+
 **It commuicates all the necessary details without unnecessary information.**
+
