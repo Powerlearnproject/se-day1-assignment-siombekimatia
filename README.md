@@ -88,11 +88,11 @@ Possible strategies for overcoming challenges:
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 
-*1. Unit Testing:* Testing individual components or modules of software.*
+*1. Unit Testing:* Testing individual components or modules of software.
 
-*2. Integration Testing:* Testing interactions between different components or subsystems.*
+*2. Integration Testing:* Testing interactions between different components or subsystems.
 
-*3. System Testing:* Testing the entire software system as a whole.*
+*3. System Testing:* Testing the entire software system as a whole.
 
 *4. Acceptance Testing:* Testing the software against user requirements to ensure it meets user needs.
 
